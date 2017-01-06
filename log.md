@@ -1,30 +1,26 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 06, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**:Fixed CSS, worked on layout for my future portfolio, just lorem ipsum and flexbox for clarity
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Really early phase of my work, just css, and simple JS. Final project will be in React with JSON providing simple and functional info about me, and so on. I still work with codepen, but when the project will be mature enough, I will move to github, It's simpler that way.
+Still not happy with how the left navigation looks, the *email me* part should be lower. after all I could create two separate divs for mobile and desktop view.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link to work:** [Portfolio Layout](http://codepen.io/piotr_m_jurek/pen/vyJMVE?editors=0100)
 
 
-### Day 1: June 27, Monday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+****
+****
+****
+# Template
+### Day 0: January 06, 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
