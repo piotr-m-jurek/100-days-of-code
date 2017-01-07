@@ -9,6 +9,19 @@ Still not happy with how the left navigation looks, the *email me* part should b
 
 **Link to work:** [Portfolio Layout](http://codepen.io/piotr_m_jurek/pen/vyJMVE?editors=0100)
 
+### Day 0: January 06, 2017
+
+**Today's Progress:** 
+  * Worked on setting up github, gh-pages branch, updating my gh-pages branch with simple `git checkout gh-pages && git rebase master`.
+  * Made changes on structure of folders on my potfolio branch
+  * Tweaking CSS for the portfolio layout
+
+**Thoughts:** Today I have a really bad hangover, like I slept till 4pm. But the force is kinda strong with me, and i managed to sit for an hour and work on things that had to be done. I've got a good plan in my head, but I think it's necessary to make workplan in something like Trello. I guess I'll take care of it tomorow, and publish my trello cards.
+
+**Link to work:** [Portfolio Layout](http://codepen.io/piotr_m_jurek/pen/vyJMVE?editors=0100)
+                  [Github portfolio link](https://github.com/piotr-m-jurek/portfolio-v2)
+
+
 
 
 
@@ -17,6 +30,7 @@ Still not happy with how the left navigation looks, the *email me* part should b
 ****
 ****
 # Template
+
 ### Day 0: January 06, 2017
 
 **Today's Progress:** 
