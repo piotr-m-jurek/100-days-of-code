@@ -9,7 +9,7 @@ Still not happy with how the left navigation looks, the *email me* part should b
 
 **Link to work:** [Portfolio Layout](http://codepen.io/piotr_m_jurek/pen/vyJMVE?editors=0100)
 
-### Day 0: January 06, 2017
+### Day 2: January 06, 2017
 
 **Today's Progress:** 
   * Worked on setting up github, gh-pages branch, updating my gh-pages branch with simple `git checkout gh-pages && git rebase master`.
