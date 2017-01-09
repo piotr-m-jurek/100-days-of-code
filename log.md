@@ -43,6 +43,16 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 4: January 09, 2017
+
+**Today's Progress:** 
+  * Finished calculator layout, not extremely proud of it, but it's fixed size challange. If I were to make fully responsive microservice, I would design it a little different. Used a bit of flexbox, some relative sizing. Overall it's done. JS is more important
+
+**Thoughts:** After 8 hours in front of the computer at work it's pretty hard do accomplish something at home, but I'm not giving up, not for now at least ;)
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+****************************************************************************************************
 
 
 
