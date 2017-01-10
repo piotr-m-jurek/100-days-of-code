@@ -54,8 +54,15 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 5: January 10, 2017
 
+**Today's Progress:** Today was a good day, I recieved a task from company I'm trying to work for. I need to code Hangman game. Preferably React, or other JS framework. Did basic layout, figured out how to handle keypress event. It's gonna work, I know it. I've got time until friday to finish, but the sooner the better.
 
+**Thoughts:** I quickly give up when I see a large piece of work to be done. I need to work with small pieces of code, small tasks. But I am learning every day, every day something new. Even if I wouldn't get the job, I will know and learn so much. Of course it's a hard work, after 8 hours of daily job, but it's a pleasure for me (not so much for my girlfriend :D ).
+
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
+
+****************************************************************************************************
 
 ****
 ****
