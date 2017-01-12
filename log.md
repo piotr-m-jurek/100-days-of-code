@@ -64,7 +64,7 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
-### Day 6: January 10, 2017
+### Day 6: January 11, 2017
 
 **Today's Progress:** Worked on dataflow of Hangman game in ReactJS
 
@@ -74,13 +74,13 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
-### Day 7: January 06, 2017
+### Day 7: January 12, 2017
 
-**Today's Progress:** 
+**Today's Progress:** Managed to make the most important logic right. Also styled Mr Hangman with external images. Still some things to do...
 
-**Thoughts:** 
+**Thoughts:** The success is the greatest fuel for me. Even with small challanges.
 
-**Link to work:** []()
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
 
 ****************************************************************************************************
 
