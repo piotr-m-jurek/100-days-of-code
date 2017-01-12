@@ -64,6 +64,18 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 6: January 10, 2017
+
+**Today's Progress:** Worked on dataflow of Hangman game in ReactJS
+
+**Thoughts:** if you don't know framework, creating an app with complex dataflow is a bit hard... Bit upset about progress, nothing seemed to work fine... but tomorrow is another day ;)
+
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
+
+****************************************************************************************************
+
+
+
 ****
 ****
 ****
