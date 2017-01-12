@@ -74,12 +74,23 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 7: January 06, 2017
+
+**Today's Progress:** 
+
+**Thoughts:** 
+
+**Link to work:** []()
+
+****************************************************************************************************
+
+
 
 
 ****
 ****
 ****
-# Template
+# <Template>
 
 ### Day 0: January 06, 2017
 
@@ -88,3 +99,7 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 **Thoughts:** 
 
 **Link to work:** []()
+
+****************************************************************************************************
+
+# </Template>
