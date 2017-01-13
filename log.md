@@ -84,6 +84,16 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 8: January 13, 2017
+
+**Today's Progress:** Finished coding Hangman Game. It's not perfect, but it's working. Next step is to 'prettify' it, and user-proof it, because as I said it's not perfect
+
+**Thoughts:** On wednesday I really thought I couldn't make it, but putting enough work into something pays off. Besides, I had my 'aha!' momemnts during this project, regarding react, and That really helped too!
+
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
+
+****************************************************************************************************
+
 
 
 
