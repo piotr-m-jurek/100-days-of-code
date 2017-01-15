@@ -94,6 +94,16 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 9: January 14, 2017
+
+**Today's Progress:** Tweaked Hangman game, still got problems with Retina displays. There were also some issues with logic, needed to specify my if statements a bit more.
+
+**Thoughts:** I really don't know if the logic behind the game is good, It works, but is it production-ready code? I don't think so. Well I'll find out soon.
+
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
+
+****************************************************************************************************
+
 
 
 
