@@ -104,6 +104,19 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 10: January 15, 2017
+
+**Today's Progress:** Started front-end interview task for another company. Finished setting up webpack, webpack-dev-server, standard JS.
+
+**Thoughts:** not many things done, but surely a productive day, tweaked some of my previous Hangman Game stuff, every time I setup webpack I understand it better.
+
+**Link to work:** [Hangman Game](http://codepen.io/piotr_m_jurek/pen/RKrovm?editors=0011)
+                  [Monterails task](https://github.com/piotr-m-jurek/monterail-test-prj)
+
+
+****************************************************************************************************
+
+
 
 
 
