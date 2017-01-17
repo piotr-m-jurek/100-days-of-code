@@ -126,6 +126,17 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 12: January 17, 2017
+
+**Today's Progress:** Managed to setup webpack: htmlwebpackplugin, standard jslint, babel, react, sass, extract-text. Now I've got template for making apps with react. big + for webpack: __webpack-dashboard__
+
+**Thoughts:** Sometimes you just got to sleep, and the solution comes right after, in the morning. The tasks i did today are not coding, but are coding-related. I think it counts
+
+**Link to work:** [Templating static page](https://github.com/piotr-m-jurek/monterail-test-prj)
+
+****************************************************************************************************
+
+
 
 
 
