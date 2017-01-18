@@ -136,6 +136,17 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 13: January 18, 2017
+
+**Today's Progress:** Did some reading about css frameworks like bootstrap and skeleton. Also more reading about Bourbon mixins for sass
+
+**Thoughts:** It's all because of sherlocks season 4 finale. I'm a little worn out
+
+**Link to work:** [Templating static page](https://github.com/piotr-m-jurek/monterail-test-prj)
+
+****************************************************************************************************
+
+
 
 
 
