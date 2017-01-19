@@ -146,6 +146,17 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 14: January 19, 2017
+
+**Today's Progress:** basic routing, splitting code to modules
+
+**Thoughts:** today was travel day, unfortunately after work I had to go to my hometown, I wasn't able to code a lot. Tomorow on the other hand, I've got whole day to code my projects! :)
+
+**Link to work:** [Templating static page](https://github.com/piotr-m-jurek/monterail-test-prj)
+
+****************************************************************************************************
+
+
 
 
 
