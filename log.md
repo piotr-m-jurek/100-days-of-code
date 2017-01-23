@@ -156,6 +156,27 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 15-17: January 20-22, 2017
+
+**Today's Progress:** Still monterail recruitment task, much pain.
+
+**Thoughts:** i'm a little burnt out after the hangman game.
+
+**Link to work:** [Templating static page](https://github.com/piotr-m-jurek/monterail-test-prj)
+
+****************************************************************************************************
+
+### Day 18: January 23, 2017
+
+**Today's Progress:** Streamed for 2-3 hours and fixed some things on my portfolio on github. When you do something because you like it it is much better than under a lot of pressure.
+
+**Thoughts:**  I don't say that pressure is not good. PRESSURE IS GOOD. But if you're lacking knowledge, helping hand and have limited time it is really devastating. Sometimes gitter and forums are not enough for feedback. I need a real person to teach me. A master. Because I'm one with the force, and the force is with me!
+
+**Link to work:** [Portfolio](https://piotr-m-jurek.github.io)
+
+****************************************************************************************************
+
+
 
 
 
