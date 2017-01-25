@@ -187,6 +187,18 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 20: January 25, 2017
+
+**Today's Progress:** worked a bit on my @freecodecamp javascript calculator, got visuals, got overall idea of how to write logic behind this. also was learning react from this awesome online interactive tutorial (listed below)
+
+**Thoughts:** Immediately after 1-2 days of not writing JS you forget it. after 1-2 days of not writing HTML/CSS - you forget it. I really admire people who manage to learn HTML, CSS, JS, React, Redux, Vue, Angular, and all the backend stuff at the same time...
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+**Awesome React tutorial:** http://hysterical-amusement.surge.sh/
+****************************************************************************************************
+
+
 
 
 
