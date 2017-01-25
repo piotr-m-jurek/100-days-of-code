@@ -176,6 +176,18 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 19: January 24, 2017
+
+**Today's Progress:** Streamed for 2hours, finished v1 of my portfolio. Also spent a bit of time on a component for displaying potfolio projects on page
+
+**Thoughts:** Really nice and chill evening, I enjoy streaming, I am aware that my content is extra begginners stuff, but still, if someone asks me how I did something I'm super excited!
+
+**Link to work:** [Portfolio](https://piotr-m-jurek.github.io)
+                  [thumbnail with roll-up](http://codepen.io/piotr_m_jurek/pen/MJvagO)
+
+****************************************************************************************************
+
+
 
 
 
