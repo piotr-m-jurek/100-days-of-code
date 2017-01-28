@@ -196,7 +196,20 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 **Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
 
 **Awesome React tutorial:** http://hysterical-amusement.surge.sh/
+
 ****************************************************************************************************
+
+### Day 21: January 27, 2017
+
+**Today's Progress:** Worked on some minor issues on my portfolio, as I checked it on my phone. I also read the tutorial on creating custom toggle switches with HTML and CSS, made out of hidden checkboxes
+
+**Thoughts:** I really enjoy streaming. I really need mentoring.
+
+**Link to work:** [Portfolio](https://piotr-m-jurek.github.io)
+                  [Toggle Switches](http://codepen.io/piotr_m_jurek/pen/wgPopR?editors=0100)
+
+****************************************************************************************************
+
 
 
 
