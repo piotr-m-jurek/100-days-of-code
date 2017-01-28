@@ -210,6 +210,17 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 22: January 28, 2017
+
+**Today's Progress:** Got major progress on calculator in JS. Tomorrow some conditionals and preventing user to f*ck up something ;)
+
+**Thoughts:** Writing JS logic is really hard for me, I need to study it harder.
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+****************************************************************************************************
+
+
 
 
 
