@@ -220,6 +220,28 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 23: January 29, 2017
+
+**Today's Progress:** forgot about log entry, worked a bit on calculator, fixed some mistakes in old projects
+
+**Thoughts:** I really struggle to work on my own, I don't know if my code is good, and asking people on gitter or FCC forum is not enough
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+****************************************************************************************************
+
+### Day 24: January 30, 2017
+
+**Today's Progress:** started a new project, something like todo notes app, but with colors in #HEX. React of course
+
+**Thoughts:** I'm at the point that I think flux or Redux is the answer to my problems, I think I need to watch some tutorials and try to implement them to my work. I count tutorials as coding, because i don't have too much time at home, I'll try to code at least 30 minutes still.
+
+**Link to work:** [colors todo](https://codepen.io/piotr_m_jurek/pen/xgpRqZ?editors=0011)
+
+****************************************************************************************************
+
+
+
 
 
 
