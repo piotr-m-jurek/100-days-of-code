@@ -240,6 +240,28 @@ I have a little problem with whitelisting *.fonts/* folder to my `.gitignore fil
 
 ****************************************************************************************************
 
+### Day 25: January 31, 2017
+
+**Today's Progress:** I finished the calculator, I suspended work on hex color todo app, because I need to grasp on idea of this app
+
+**Thoughts:** The calculator has some error detection incorporated, but it's not perfect 
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+****************************************************************************************************
+
+### Day 0: January 06, 2017
+
+**Today's Progress:** I cleared all my previous code from calculator app. Now I want to rewrite it in OO manner. Classes, methods, encapsulation etc.
+
+**Thoughts:** I think I make my life harder, and I don't know if it is good at this point.
+
+**Link to work:** [calculator](http://codepen.io/piotr_m_jurek/pen/ozVGyw)
+
+****************************************************************************************************
+
+
+
 
 
 
